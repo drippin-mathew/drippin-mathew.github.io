@@ -1,0 +1,19 @@
+body{
+  padding-left: 0px;
+}
+p{
+
+  padding: 0px;
+
+  background-color: #ffffff;
+  text-align: center;
+}
+a:hover{
+  color: gray;
+  background-color: inherit;
+  text-decoration: underline;
+}
+a:visited{
+  color:red;
+  background-color: inherit;
+}
