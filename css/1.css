@@ -1,11 +1,12 @@
 body{
   padding-left: 0px;
+  background-image: url('2.jpg');
 }
 p{
 
   padding: 0px;
 
-  background-color: #ffffff;
+  background-color: #c4c4c4;
   text-align: center;
 }
 a:hover{
@@ -14,6 +15,6 @@ a:hover{
   text-decoration: underline;
 }
 a:visited{
-  color:red;
+  columns: #eba7a7;;
   background-color: inherit;
 }
