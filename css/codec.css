@@ -3,7 +3,13 @@ body{
     font-family: 'Courier New', Courier, monospace;
     /* background-color: #dddddd; */
     background-image: url("../pics/1.jpg");
+    /* background-size: cover; */
+    background-repeat: no-repeat;
+    height: 100%;
+    /* background-position: center; */
+    
 }
+
 ul{
     list-style-type: none;
     text-decoration: none;
@@ -37,4 +43,8 @@ td,th{
 }
 tr:nth-child(even){
     background-color: rgb(199, 199, 199);
+}
+div{
+    height: 2px;
+    width: 50%;
 }
