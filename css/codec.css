@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    /* background-color: #dddddd; */
+    background-image: url("../pics/1.jpg");
+}
+ul{
+    list-style-type: none;
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 7  px;
+    margin: 0px;
+    overflow: hidden;
+}
+li a{
+    color:white;
+    text-decoration: none;
+    float: left;
+    padding: 10px;
+    margin: 0px;
+}
+li a:hover{
+    background-color: rgb(39, 39, 39);
+}
+
+
+table{
+    padding: 5px;
+    border-collapse: collapse;
+    width: 30%;
+}
+td,th{
+    border: 2px solid  rgb(150, 150, 150);
+    padding:5px;
+}
+tr:nth-child(even){
+    background-color: rgb(199, 199, 199);
+}
