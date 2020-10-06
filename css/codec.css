@@ -17,7 +17,7 @@ ul{
     background-color: black;
     color: white;
     text-align: center;
-    padding: 2px;
+    padding: 0.125em;
     margin: 0px;
     overflow: hidden;
 }
@@ -25,7 +25,7 @@ li a{
     color:white;
     text-decoration: none;
     float: left;
-    padding: 10px;
+    padding: 0.600em;
     margin: 0px;
 }
 li a:hover{
@@ -34,18 +34,18 @@ li a:hover{
 
 
 table{
-    padding: 5px;
+    padding: 0.3125em;
     border-collapse: collapse;
     width: 30%;
 }
 td,th{
-    border: 2px solid  rgb(150, 150, 150);
-    padding:5px;
+    border: 0.125em solid  rgb(150, 150, 150);
+    padding:0.3125em;
 }
 tr:nth-child(even){
     background-color: rgb(199, 199, 199);
 }
 div{
-    height: 2px;
+    height: 0.125em;
     width: 50%;
 }
