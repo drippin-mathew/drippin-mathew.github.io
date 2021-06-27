@@ -1,6 +1,5 @@
-<title>Mathew | Github profile</title>
-<link rel="shortcut icon" type="image/jpg" href="favicon.ico"/>
-
+<title>Mathew | GitHub</title>
+<link rel="icon" href="favicon.ico" >
 # Mathew {#t}
 Hey.. How are you doing
 <div style="text-align: right"><a href="https://www.linkedin.com/in/k-mathew/">
