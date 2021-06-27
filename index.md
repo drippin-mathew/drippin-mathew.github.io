@@ -1,6 +1,7 @@
-<title>Mathew | GitHub</title>
 <link rel="icon" href="favicon.ico" >
+
 # Mathew {#t}
+
 Hey.. How are you doing
 <div style="text-align: right"><a href="https://www.linkedin.com/in/k-mathew/">
          <img alt="Twitter Follow" src="https://img.shields.io/badge/LinkedIn-follow-blue">
